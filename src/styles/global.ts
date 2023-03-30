@@ -1,5 +1,5 @@
 import { lighten } from 'polished';
-import { createGlobalStyle, DefaultTheme } from 'styled-components/';
+import { createGlobalStyle, DefaultTheme } from 'styled-components';
 
 export const theme: DefaultTheme = {
   background: '#11172B',
